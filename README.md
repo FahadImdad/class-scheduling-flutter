@@ -1,7 +1,7 @@
 # 🚀 Class Scheduling Application
-
+![Add Class Screen](screenshots/pic_1.png)
 ## 📌 Project Overview
-The **Class Scheduling Application** is a mobile app designed to simplify and enhance the class scheduling process for students and faculty at **Salim Habib University (SHU)**. Built with **🔥 Flutter** and **☁️ Firebase**, this application enables students to manage their timetables, receive class reminders, and customize their schedules efficiently.
+The **Class Scheduling Application** is a mobile app designed to simplify and enhance the class scheduling process for students and faculty. Built with **🔥 Flutter** and **☁️ Firebase**, this application enables students to manage their timetables, receive class reminders, and customize their schedules efficiently.
 
 ## ✨ Features
 ✅ **Department & Semester Selection:** Automatically loads the timetable based on department and semester.
@@ -21,8 +21,8 @@ Before setting up the project, ensure you have the following:
 ### ⚡ Installation Steps
 1. **Clone the repository:**
    ```sh
-   git clone https://github.com/yourusername/SHU-Class-Scheduling.git
-   cd SHU-Class-Scheduling
+   git clone https://github.com/yourusername/class-scheduling-flutter.git
+   cd class-scheduling-flutter
    ```
 2. **Install dependencies:**
    ```sh
@@ -38,22 +38,19 @@ Before setting up the project, ensure you have the following:
 
 ## 📷 Screenshots
 ### 🚀 Splash Screen
-![Splash Screen](screenshots/splash_screen.png)
+![Splash Screen](screenshots/Splash%20Screen.png)
 
 ### 🎓 Department & Semester Selection
-![Department & Semester Selection](screenshots/department_selection.png)
+![Department & Semester Selection](screenshots/Department%20&%20Semester%20Selection.png)
 
 ### 🏠 Home Screen
-![Home Screen](screenshots/home_screen.png)
+![Home Screen](screenshots/Home%20Screen.png)
 
 ### ➕ Add Class Screen
-![Add Class Screen](screenshots/add_class.png)
-
-### ❌ Remove Class Screen
-![Remove Class Screen](screenshots/remove_class.png)
+![Add Class Screen](screenshots/Add%20Class%20Screen.png)
 
 ### 🔔 Notification Settings Screen
-![Notification Settings Screen](screenshots/notification_settings.png)
+![Notification Settings Screen](screenshots/Notification%20Settings%20Screen.png)
 
 ## 🏆 Contributors
 - 👤 **Muhammad Fahad Imdad**
@@ -64,4 +61,4 @@ This project is open-source and available under the [MIT License](LICENSE).
 ## 🌟 Support
 If you find this project useful, give it a ⭐ on GitHub!
 
-For any issues or feature requests, feel free to open an [issue](https://github.com/yourusername/SHU-Class-Scheduling/issues).
+For any issues or feature requests, feel free to open an [issue](https://github.com/yourusername/class-scheduling-flutter/issues).
