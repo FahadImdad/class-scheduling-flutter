@@ -1,7 +1,7 @@
-# 🚀 SHU Class Scheduling Application
+# 🚀 Class Scheduling Application
 
 ## 📌 Project Overview
-The **SHU Class Scheduling Application** is a mobile app designed to simplify and enhance the class scheduling process for students and faculty at **Salim Habib University (SHU)**. Built with **🔥 Flutter** and **☁️ Firebase**, this application enables students to manage their timetables, receive class reminders, and customize their schedules efficiently.
+The **Class Scheduling Application** is a mobile app designed to simplify and enhance the class scheduling process for students and faculty at **Salim Habib University (SHU)**. Built with **🔥 Flutter** and **☁️ Firebase**, this application enables students to manage their timetables, receive class reminders, and customize their schedules efficiently.
 
 ## ✨ Features
 ✅ **Department & Semester Selection:** Automatically loads the timetable based on department and semester.
