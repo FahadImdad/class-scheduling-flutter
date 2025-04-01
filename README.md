@@ -37,20 +37,7 @@ Before setting up the project, ensure you have the following:
    ```
 
 ## 📷 Screenshots
-### 🚀 Splash Screen
-![Splash Screen](screenshots/Splash%20Screen.png)
-
-### 🎓 Department & Semester Selection
-![Department & Semester Selection](screenshots/Department%20&%20Semester%20Selection.png)
-
-### 🏠 Home Screen
-![Home Screen](screenshots/Home%20Screen.png)
-
-### ➕ Add Class Screen
-![Add Class Screen](screenshots/Add%20Class%20Screen.png)
-
-### 🔔 Notification Settings Screen
-![Notification Settings Screen](screenshots/Notification%20Settings%20Screen.png)
+![Splash Screen](screenshots/pic_2.png)
 
 ## 🏆 Contributors
 - 👤 **Muhammad Fahad Imdad**
